@@ -1,0 +1,15 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "textlint .",
+    "work": "md-to-pdf WORK_HISTORY.md --config-file pdf-config.json",
+    "academic": "md-to-pdf ACADEMIC_BACKGROUND.md --config-file pdf-config.json"
+  },
+  "dependencies": {
+    "md-to-pdf": "^5.2.0",
+    "textlint": "^12.2.3",
+    "textlint-rule-preset-japanese": "^7.0.0"
+  }
+}

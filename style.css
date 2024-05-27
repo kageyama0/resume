@@ -1,0 +1,19 @@
+body {
+  font-size: 10.5px;
+  font-family: "Hiragino Sans", sans-serif;
+}
+
+.page-break {
+  page-break-after: always;
+}
+
+table,
+table td,
+table th {
+  border: 1px gray solid;
+  border-collapse: collapse;
+}
+
+ul {
+  padding: .5rem 1rem;
+}
