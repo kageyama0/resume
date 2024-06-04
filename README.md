@@ -1,7 +1,7 @@
 # 履歴書作成
 
 ```
-$ yarn academic
+$ yarn resume
 ```
 
 # 職務経歴書

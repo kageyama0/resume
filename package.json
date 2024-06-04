@@ -5,7 +5,7 @@
   "scripts": {
     "lint": "textlint .",
     "work": "md-to-pdf WORK_HISTORY.md --config-file pdf-config.json",
-    "academic": "md-to-pdf ACADEMIC_BACKGROUND.md --config-file pdf-config.json"
+    "resume": "md-to-pdf RESUME.md --config-file pdf-config.json"
   },
   "dependencies": {
     "md-to-pdf": "^5.2.0",
