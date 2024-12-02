@@ -5,3 +5,5 @@ yarn.lock
 *.pdf
 
 .DS_Store
+
+RESUME_WITH_ADDRESS.md
